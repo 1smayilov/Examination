@@ -1,0 +1,33 @@
+﻿@using Exam.Entities
+@model Lesson
+
+@{
+    ViewData["Title"] = "Yeni Dərs Yarat";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Create" method="post">
+    <div class="form-group">
+        <label for="Name">Dərs Adı</label>
+        <input type="text" class="form-control" id="Name" name="Name" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Grade">Sinif</label>
+        <input type="text" class="form-control" id="Grade" name="Grade" required />
+    </div>
+
+    <div class="form-group">
+        <label for="TeacherFirstName">Müəllim Adı</label>
+        <input type="text" class="form-control" id="TeacherFirstName" name="TeacherFirstName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="TeacherLastName">Müəllim Soyadı</label>
+        <input type="text" class="form-control" id="TeacherLastName" name="TeacherLastName" required />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-outline-primary">Yadda Saxla</button>
+    <a href="@Url.Action("Index", "Lesson")" class="btn btn-outline-secondary">Geri</a>
+</form>

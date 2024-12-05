@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\examination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\examination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\examination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\examination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\examination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\examination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\lesson\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\lesson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\lesson\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\lesson\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\lesson\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\controllers\\examinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\examinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\entities\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\entities\\examination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\service\\concrete\\examinationservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\service\\concrete\\examinationservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\service\\abstract\\iexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\service\\abstract\\iexaminationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\dal\\concrete\\examinationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\dal\\concrete\\examinationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|c:\\users\\etimad\\desktop\\exam\\exam\\exam\\dal\\abstract\\iexaminationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273C3505-B4BD-4B88-8213-F5770C029756}|Exam\\Exam.csproj|solutionrelative:exam\\dal\\abstract\\iexaminationdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Student\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Student\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:15:49.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:15:43.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Lesson\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Lesson\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Lesson\\Edit.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Lesson\\Edit.cshtml",
+              "ViewState": "AQIAAA4AAAAAMzMzMzMbwB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:15:27.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Lesson\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Lesson\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Lesson\\Create.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Lesson\\Create.cshtml",
+              "ViewState": "AQIAAAkAAABgZmZmZmYkwB0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:15:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Examination\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Examination\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Examination\\Index.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Examination\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:10:29.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Examination\\Create.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Examination\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Examination\\Create.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Examination\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAuwCcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:10:48.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Examination\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Examination\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Examination\\Edit.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Examination\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAABgZmZmZmYkwAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:10:26.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T13:09:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AQIAABAAAAAAMzMzMzMLwBQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T13:08:28.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Lesson\\Index.cshtml",
+              "RelativeDocumentMoniker": "Exam\\Views\\Lesson\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Views\\Lesson\\Index.cshtml",
+              "RelativeToolTip": "Exam\\Views\\Lesson\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T09:21:46.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Examination.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Entities\\Examination.cs",
+              "RelativeDocumentMoniker": "Exam\\Entities\\Examination.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Entities\\Examination.cs",
+              "RelativeToolTip": "Exam\\Entities\\Examination.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:29:30.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "Exam\\Entities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Entities\\Lesson.cs",
+              "RelativeToolTip": "Exam\\Entities\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:33:29.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "Exam\\Entities\\IEntity.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Entities\\IEntity.cs",
+              "RelativeToolTip": "Exam\\Entities\\IEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:41:14.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExaminationController.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Controllers\\ExaminationController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\ExaminationController.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Controllers\\ExaminationController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\ExaminationController.cs",
+              "ViewState": "AQIAABEAAAAANDMzMzPzvyUAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:01:03.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExaminationService .cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Service\\Concrete\\ExaminationService .cs",
+              "RelativeDocumentMoniker": "Exam\\Service\\Concrete\\ExaminationService .cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Service\\Concrete\\ExaminationService .cs",
+              "RelativeToolTip": "Exam\\Service\\Concrete\\ExaminationService .cs",
+              "ViewState": "AQIAAAoAAAAANDMzMzPjvwcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:34:56.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IExaminationService.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Service\\Abstract\\IExaminationService.cs",
+              "RelativeDocumentMoniker": "Exam\\Service\\Abstract\\IExaminationService.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Service\\Abstract\\IExaminationService.cs",
+              "RelativeToolTip": "Exam\\Service\\Abstract\\IExaminationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:34:49.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ExaminationDal.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Dal\\Concrete\\ExaminationDal.cs",
+              "RelativeDocumentMoniker": "Exam\\Dal\\Concrete\\ExaminationDal.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Dal\\Concrete\\ExaminationDal.cs",
+              "RelativeToolTip": "Exam\\Dal\\Concrete\\ExaminationDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:34:34.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IExaminationDal.cs",
+              "DocumentMoniker": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Dal\\Abstract\\IExaminationDal.cs",
+              "RelativeDocumentMoniker": "Exam\\Dal\\Abstract\\IExaminationDal.cs",
+              "ToolTip": "C:\\Users\\Etimad\\Desktop\\Exam\\Exam\\Exam\\Dal\\Abstract\\IExaminationDal.cs",
+              "RelativeToolTip": "Exam\\Dal\\Abstract\\IExaminationDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:34:26.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

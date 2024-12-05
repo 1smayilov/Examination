@@ -1,0 +1,40 @@
+﻿@using Exam.Entities
+@model IEnumerable<Examination>
+
+@{
+    ViewData["Title"] = "İmtahan";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Dərs</th>
+            <th>Şagird</th>
+            <th>İmtahan Tarixi</th>
+            <th>Qiyməti</th>
+            <th>Əməliyyatlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var exam in Model)
+        {
+            <tr>
+                <td>@exam.Lesson.Name</td>
+                <td>@exam.Student.FirstName @exam.Student.LastName</td>
+                <td>@exam.ExamDate.ToString("dd/MM/yyyy")</td>
+                <td>@exam.Score</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Examination", new { id = exam.Id })" class="btn btn-outline-success">Dəyiş</a> |
+                    <form action="@Url.Action("Delete", "Examination", new { id = exam.Id })" method="post" style="display:inline;">
+                        <input type="hidden" name="_method" value="DELETE" />
+                        <button type="submit" class="btn btn-outline-danger">Sil</button>
+                    </form>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create", "Examination")" class="btn btn-outline-primary">Yeni İmtahan Yarat</a>

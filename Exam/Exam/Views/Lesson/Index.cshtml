@@ -1,0 +1,37 @@
+﻿@using Exam.Entities
+@model IEnumerable<Lesson>
+
+@{
+    ViewData["Title"] = "Dərslər";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Dərs Adı</th>
+            <th>Sinif</th>
+            <th>Müəllim</th>
+            <th>Əməliyyatlar</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var lesson in Model)
+        {
+            <tr>
+                <td>@lesson.Name</td>
+                <td>@lesson.Grade</td>
+                <td>@lesson.TeacherFirstName @lesson.TeacherLastName</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Lesson", new { id = lesson.LessonId })" class="btn btn-outline-success">Dəyiş</a> |
+                    <form action="@Url.Action("Delete", "Lesson", new { id = lesson.LessonId })" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-outline-danger">Sil</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a href="@Url.Action("Create", "Lesson")" class="btn btn-primary">Yeni Dərs Yarat</a>

@@ -1,0 +1,35 @@
+﻿@using Exam.Entities
+@model Lesson
+
+@{
+    ViewData["Title"] = "Dərsi Dəyiş";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" name="LessonId" value="@Model.LessonId" />
+
+    <div class="form-group">
+        <label for="Name">Dərs Adı</label>
+        <input type="text" class="form-control" id="Name" name="Name" value="@Model.Name" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Grade">Sinif</label>
+        <input type="text" class="form-control" id="Grade" name="Grade" value="@Model.Grade" required />
+    </div>
+
+    <div class="form-group">
+        <label for="TeacherFirstName">Müəllim Adı</label>
+        <input type="text" class="form-control" id="TeacherFirstName" name="TeacherFirstName" value="@Model.TeacherFirstName" required />
+    </div>
+
+    <div class="form-group">
+        <label for="TeacherLastName">Müəllim Soyadı</label>
+        <input type="text" class="form-control" id="TeacherLastName" name="TeacherLastName" value="@Model.TeacherLastName" required />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-outline-success">Yadda Saxla</button>
+    <a href="@Url.Action("Index", "Lesson")" class="btn btn-outline-secondary">Geri</a>
+</form>

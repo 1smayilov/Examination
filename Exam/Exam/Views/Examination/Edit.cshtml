@@ -1,0 +1,36 @@
+﻿@using Exam.Entities
+@using Microsoft.AspNetCore.Mvc.Rendering
+@model Examination
+
+@{
+    ViewData["Title"] = "İmtahanı Dəyiş";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label for="LessonId">Dərs Seçin</label>
+        <select class="form-control" asp-for="LessonId" asp-items="@(ViewData["Lessons"] as IEnumerable<SelectListItem>)"></select>
+    </div>
+
+    <div class="form-group">
+        <label for="StudentId">Şagird Seçin</label>
+        <select class="form-control" asp-for="StudentId" asp-items="@(ViewData["Students"] as IEnumerable<SelectListItem>)"></select>
+    </div>
+
+    <div class="form-group">
+        <label for="ExamDate">İmtahan Tarixi</label>
+        <input type="date" class="form-control" asp-for="ExamDate" />
+    </div>
+
+    <div class="form-group">
+        <label for="Score">Nəticə</label>
+        <input type="number" class="form-control" asp-for="Score" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-outline-success">Yadda Saxla</button>
+    <a asp-action="Index" class="btn btn-outline-secondary">Geri</a>
+</form>
